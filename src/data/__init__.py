@@ -5,6 +5,5 @@ from .lsun import LSUNBedroomsTrain, LSUNBedroomsValidation
 from .imagenet_sub import ImageNet64Train, ImageNet64Validation
 from .imagenet_sub import ImageNet32Train, ImageNet32Validation
 from .imagenet_sub import ImageNet16Train, ImageNet16Validation
-from .gpt2_samples import GPT2Samples
 from .cifar import CIFAR
 from .mnist import MNIST
